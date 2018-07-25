@@ -7,7 +7,7 @@ EXPOSE 8080
 # See https://docs.npmjs.com/misc/scripts, and your repo's package.json
 # file for possible values of NPM_RUN
 ENV NPM_RUN=start \
-    NODE_VERSION=7.10.0 \
+    NODE_VERSION=8 \
     NPM_VERSION=4.2.0 \
     V8_VERSION=5.5.372.43 \
     NODE_LTS=false \
